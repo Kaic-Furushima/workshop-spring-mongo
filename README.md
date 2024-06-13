@@ -5,6 +5,7 @@
 - Java
 - Spring Boot 3
 - MongoDB
+- Maven
 
 ## ✨ Motivação
 
